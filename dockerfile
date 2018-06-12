@@ -1,5 +1,5 @@
 FROM ubuntu 
-MAINTAINER Jeganathan Swaminathan <jegan@tektutor.org> <http://www.tektutor.org>
+MAINTAINER Ruchi Singh <ruchisingh.june87@gmail.com>
 
 
 # Let's ensure that all package repositories are up to date 
